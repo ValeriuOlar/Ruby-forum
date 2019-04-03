@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Stock-App-Rails</title>
+  <title>Template-Ruby on Rails</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
@@ -9,11 +9,10 @@
 </head>
 <body>
   
-  
-<%= render 'home/navbar'%>
+  <%= render 'home/navbar' %>
 
 <div class="container">
-  <%= yield %>
+<%= yield %>
 </div>
 </body>
 </html>

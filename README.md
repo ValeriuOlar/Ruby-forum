@@ -1,8 +1,12 @@
-#Valeriu Olariu
+## Ruby on Rails Bootstrap Start template
 
-Ruby on Rails Nav Project template - to skip the start intro development environment
+Ruby on Rails New Project template - to skip the beginning of the development environment
 
-Binld in Home index, use:
+## Technologies
+1.	[HTML5]( https://www.w3schools.com/html/html_intro.asp)
+2.	[CSS3]( https://www.w3schools.com/css/)
+3.	[Bootstrap 4.0.0]( https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+4.  [Ruby Gems](https://rubygems.org/gems/bootstrap-sass/versions/3.4.1)
 
-[] Bootsrap
-[] SCSS
+## Content
+All content in the site were written by me Valeriu Olariu.
