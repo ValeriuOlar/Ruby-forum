@@ -11,8 +11,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
-gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
-gem 'stock_quote', '~> 2.0.0'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'stock_quote', '~> 2.0.0' # stock_quote - remenent of previos test project - " to be removed"
 
 group :development, :test do
   gem 'byebug'
