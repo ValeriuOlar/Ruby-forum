@@ -5,7 +5,7 @@ Ruby on Rails New Project template - to skip the beginning of the development en
 ## Technologies
 1.	[HTML5]( https://www.w3schools.com/html/html_intro.asp)
 2.	[CSS3]( https://www.w3schools.com/css/)
-3.	[Bootstrap 4.0.0]( https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+3.	[Bootstrap 1.3.7]( https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 4.  [Ruby Gems](https://rubygems.org/gems/bootstrap-sass/versions/3.4.1)
 
 ## Content
