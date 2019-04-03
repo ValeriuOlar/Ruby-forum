@@ -8,5 +8,10 @@ Ruby on Rails New Project template - to skip the beginning of the development en
 3.	[Bootstrap 1.3.7]( https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 4.  [Ruby Gems](https://rubygems.org/gems/bootstrap-sass/versions/3.4.1)
 
+
+Simple Download or pull
+
+run "Bundle install" to instal gems
+
 ## Content
 All content in the site were written by me Valeriu Olariu.
